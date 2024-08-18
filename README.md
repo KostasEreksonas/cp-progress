@@ -1,5 +1,5 @@
-# cp-progress
-A bash script to track progress of cp command
+# status
+A bash script to track progress of linux file commands. As of now, only `cp` command stats are implemented
 
 Table of Contents
 =================
@@ -17,4 +17,4 @@ Enable execution of `cp-progress` script by setting the executable bit on:
 
 # Usage
 
-Usage `./cp-progress <files-to-copy> <target-directory>`
+Usage `./status <command> <files-to-copy> <target-directory>`
