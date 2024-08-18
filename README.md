@@ -9,11 +9,11 @@ Table of Contents
 
 Download script with the following command:
 
-`curl -O https://raw.githubusercontent.com/KostasEreksonas/cp-progress/main/cp-progress`
+`curl -O https://raw.githubusercontent.com/KostasEreksonas/cp-progress/main/status`
 
-Enable execution of `cp-progress` script by setting the executable bit on:
+Enable execution of `status` script by setting the executable bit on:
 
-`chmod +x cp-progress`
+`chmod +x status`
 
 # Usage
 
