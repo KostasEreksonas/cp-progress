@@ -9,7 +9,7 @@ Table of Contents
 
 Download script with the following command:
 
-`curl -O https://raw.githubusercontent.com/KostasEreksonas/cp-progress/main/status`
+`curl -O https://raw.githubusercontent.com/KostasEreksonas/status/main/status`
 
 Enable execution of `status` script by setting the executable bit on:
 
@@ -17,4 +17,4 @@ Enable execution of `status` script by setting the executable bit on:
 
 # Usage
 
-Usage `./status <command> <files-to-copy> <target-directory>`
+Usage `./status -c <command> -p parameters -f <file-to-copy/(re)move> -t <target-directory>`
